@@ -3,7 +3,9 @@
 
 
 ## Model
-**Ensure Table and User Model attributes match that of ers_users** 
+**Ensure Table and User Model attributes match that of your database**
+
+I used the implementation below
 <br>
 ![](./TableSql.jpg)
 <br>
